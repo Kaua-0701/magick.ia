@@ -1,2 +1,2 @@
 # magick.ia
-Landing Page, Modelo de site para vendas
+Modelo de landing page e-commerce.
